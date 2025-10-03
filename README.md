@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My GitHub 👋
+Welcome to my GitHub profile. Here I share my projects, experiments, and anything I build while learning and growing as a developer. 🚀
+## About me
+ - 👨‍💻 I’m currently learning **Python** and **JavaScript**  
+- 🎮 Interested in **Game Development** and **SA-MP scripting**  
+- 🤖 Exploring **Discord Bot development**  
+- ⚡ Fun fact: I enjoy building roleplay and server-related scripts
 
-<!--
-**rdithyalsmn0225/rdithyalsmn0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Tools
+Programming: Object-Oriented Programming (OOP), CRUD Operations, Algorithms
+Languages: JavaScript, Python, SQL, Pawn
+Tools & Platforms: VSCode, Git, MySQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You’ll Find Here
+- 📂 **Learning Projects** – small scripts and practice codes  
+- 🎮 **Game Mods** – scripts and mods for games  
+- 🤖 **Discord Bots** – bots with interactive features  
