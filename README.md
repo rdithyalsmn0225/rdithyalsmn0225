@@ -7,9 +7,9 @@ Welcome to my GitHub profile. Here I share my projects, experiments, and anythin
 - ⚡ Fun fact: I enjoy building roleplay and server-related scripts
 
 ## Skills and Tools
-Programming: Object-Oriented Programming (OOP), CRUD Operations, Algorithms
-Languages: JavaScript, Python, SQL, Pawn
-Tools & Platforms: VSCode, Git, MySQL
+- Programming: Object-Oriented Programming (OOP), CRUD Operations, Algorithms
+- Languages: JavaScript, Python, SQL, Pawn
+- Tools & Platforms: VSCode, Git, MySQL
 
 ## What You’ll Find Here
 - 📂 **Learning Projects** – small scripts and practice codes  
