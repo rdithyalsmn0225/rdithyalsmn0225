@@ -13,5 +13,5 @@ Welcome to my GitHub profile. Here I share my projects, experiments, and anythin
 
 ## What You’ll Find Here
 - 📂 **Learning Projects** – small scripts and practice codes  
-- 🎮 **Game Mods** – scripts and mods for games  
+- 🎮 **Game Mods** – scripts and gamemodes for private server game SA-MP related scripts.  
 - 🤖 **Discord Bots** – bots with interactive features  
